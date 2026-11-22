@@ -1,0 +1,2 @@
+# -rneklab
+buse için alıştıorma
