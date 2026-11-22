@@ -1,2 +1,2 @@
-# -rneklab
+# orneklab
 buse için alıştıorma
